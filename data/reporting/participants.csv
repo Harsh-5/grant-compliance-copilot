@@ -1,0 +1,16 @@
+participant_id,enrollment_date,program_track,placement_date,days_employed,hourly_wage,followup_90day,exit_status,ssn
+P-1001,2025-01-15,healthcare,2025-03-02,145,18.50,yes,employed,
+P-1002,2025-01-20,logistics,2025-02-28,90,16.00,yes,employed,
+P-1003,2025-02-01,healthcare,2025-01-10,120,17.25,yes,employed,
+P-1004,2025-02-05,retail,2025-04-01,12,15.00,no,exited_other,
+P-1005,2025-02-10,logistics,2025-03-15,200,6.50,yes,employed,
+P-1006,2025-02-14,healthcare,,,,no,withdrew,
+P-1007,2025-03-01,retail,2025-04-20,75,14.00,no,employed,
+P-1008,2025-03-05,logistics,2025-05-01,110,19.75,yes,employed,123-45-6789
+P-1009,2025-03-12,healthcare,2025-04-15,60,7.00,yes,employed,
+P-1010,2025-03-20,retail,2025-05-10,180,16.50,yes,employed,
+P-1011,,logistics,2025-05-15,95,17.00,yes,employed,
+P-1012,2025-04-02,healthcare,2025-05-20,140,20.00,no,employed,
+P-1013,2025-04-10,retail,2025-06-01,25,15.50,yes,employed,
+P-1014,2025-04-15,logistics,2025-06-10,160,18.00,yes,
+P-1015,2025-05-01,healthcare,2025-06-15,130,21.00,yes,employed,
