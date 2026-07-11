@@ -1,0 +1,22 @@
+# Golden set: the question -> the clause that MUST be retrieved to answer it.
+# This is what lets us claim TF-IDF is "good enough" with evidence instead of vibes.
+- question: What is the minimum hourly wage a reported placement must meet?
+  expect_clause: PLW-203
+- question: How long must someone be employed to count as a successful placement?
+  expect_clause: PLW-201
+- question: Can a placement date come before the enrollment date?
+  expect_clause: PLW-202
+- question: When is the quarterly performance report due?
+  expect_clause: REP-101
+- question: Are we allowed to include Social Security Numbers in submitted records?
+  expect_clause: REP-103
+- question: What fields must every participant record contain?
+  expect_clause: REP-102
+- question: How long must source documentation be retained?
+  expect_clause: REP-104
+- question: What is the minimum age to enroll?
+  expect_clause: ELG-301
+- question: Is a 90-day follow-up contact required after placement?
+  expect_clause: ELG-302
+- question: What exit statuses are permitted?
+  expect_clause: ELG-303
